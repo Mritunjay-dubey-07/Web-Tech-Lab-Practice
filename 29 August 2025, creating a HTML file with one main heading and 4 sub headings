@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>About HTML</title>
+</head>
+
+<body>
+<h1>HTML Basics</h1>
+
+<h2>HTML Introduction</h2>
+<p>Hyper Text Markup language (HTML) is used to create the structure of any webpage that we see on internet via our browser. A webpage is a file that contains information. This webpage that you see here is also made using HTML. Many people consider HTML to be a programming language, which it is not as a programming language requires a compiler/interpreter to run. Hyper-text in HTML signifies that it is more that just plain text, it is a link. Markup in HTML signifies that it is a combination of different tags. To make and run an HTML file we use an editor and save the file with .html extension</p>
+
+<h2>Stratergies</h2>
+<p>There are two parts in which a webpage is created. These are front-end and back-end. </p>
+<h3>Front-end</h3>
+<p>This is the part that is displayed to the user on the browser, this is where the HTML file runs. The HTML file is then styled using Cascading style sheets (CSS) and made interective by Java Script. In an online website, whenever a user connects to the website the frontend part is downloaded into the system of the user from the servers. We can see the front-end part of any website by right clicking on empty space and then inspect.</p>
+
+<h3>Back-end</h3>	
+<p>This is the part of the website that is used for logic and saving data, it is excuted in the servers of the website. It can be programmed usign any prgramming, languag. Python is a very famous programming langauge that along with SQL is used in backend to manage data. The backend code of the website is not downloaded as a whole into the user's sysytem. </p>
+
+
+<h2>Protocols</h2>
+<p>A protocol is a standardized way of doing certain actions and formatting data so that two or more devices are able to communicate with and understand each other. Any webpage that is on the internet should follow a protocol. There are many types of protocols, like HTTP, HTTPS, FTP, SMTP, TCP/IP. For a webpage HTTP or HTTPS protocols are followed. HTTP stands for Hyper Text Transfer Protocol. 
+</p>
+
+<h2>HTML Structue</h2>
+<p>HTML has three structural blocks that are tags, data and attribute. To write an HTML code we follow a pattern and number of tags in a sequace for a basic structure of web-page. Each tag is written inside angular brackets and is closed by adding "/" just before the tag name inside angular brackets. First, the HTML tag is created, after which we create a "head" tag inside which title and meta data are written. To give a title, "title" tag is created inside "head" tag which is than closed before closing the head tag. After closing the head tag, "body" tag is created, this tag contains the part of the website that will be displayed to the user, many other tags are created under body tag after that body tag is closed. At last the HTML tag is closed and the file is saved with a .html extension. </p>
+</body>
+
+</html>
